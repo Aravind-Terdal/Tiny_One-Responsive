@@ -1,0 +1,22 @@
+:root{
+    --color-promary : #fcdb00;
+
+    --text-color-pri : #010101;
+    --text-color-sec : #313841;
+    --text-color-tri : #555;
+}
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+ul {
+    list-style : none;
+    padding : 0;
+}
+
+a:is(:link, :visited){
+    text-decoration : none;
+}
