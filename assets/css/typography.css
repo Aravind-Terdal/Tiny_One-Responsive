@@ -23,6 +23,14 @@
 
 }
 
+.footer .pri-heading{
+    color: var(--color-promary);
+}
+
+.footer .sec-heading{
+    color: var(--text-color-q);
+    margin-bottom: 4.5rem;
+}
 .socialLinks a{
     display: inline-block;
     color: var(--text-color-pri);

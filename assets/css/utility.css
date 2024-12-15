@@ -31,7 +31,9 @@ a:is(:link, :visited){
 }
 
 
-
+.mb-8{
+    margin-bottom: 8rem;
+}
 
 
 
